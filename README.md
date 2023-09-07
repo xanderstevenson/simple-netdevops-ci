@@ -9,5 +9,4 @@ pytest 7.4.0
 Python 3.9.5
 Webex 43.7.0.26612
 
-![image](https://github.com/xanderstevenson/simple-netdevops-ci/assets/27918923/c006358a-eba3-4a48-b1e0-8dc488223f2e)
-<img src="https://github.com/xanderstevenson/simple-netdevops-ci/assets/27918923/c006358a-eba3-4a48-b1e0-8dc488223f2e" width="500" />
+<p align="center"><img src="https://github.com/xanderstevenson/simple-netdevops-ci/assets/27918923/c006358a-eba3-4a48-b1e0-8dc488223f2e" width="500" /></p>
