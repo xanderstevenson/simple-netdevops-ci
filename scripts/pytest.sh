@@ -68,6 +68,7 @@ if [ $pytest_exit_code -ne 0 ]; then
     $pytest_output"
 
     # Call webex_notification_script.py with the message
+    # Update with your own path for Python
     /Users/alexstev/.pyenv/shims/python3 $WORKSPACE/scripts/webex_notification_script.py "$message"
 fi
 
