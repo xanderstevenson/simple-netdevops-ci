@@ -4,8 +4,8 @@
 
 The code works with:
 <ul>
-- Jenkins 2.401.3 
-- pytest 7.4.0
+<li>Jenkins 2.401.3 /li>
+<li>pytest 7.4.0</li>
 - Python 3.9.5
 - Webex 43.7.0.26612
 </ul>
