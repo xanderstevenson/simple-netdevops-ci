@@ -17,4 +17,4 @@ The logic is as follows:
 
 Jenkins will require the GitHub plugin, at a minimum.
 
-This project build upon the '[Intro to Ansible for Automation](https://youtu.be/2rDAziMChXs) video in the DevOps Shop series. The code related to that video is found at [intro-ansible-automation](https://github.com/xanderstevenson/intro-ansible-automation)
+This project build upon the [Intro to Ansible for Automation](https://youtu.be/2rDAziMChXs) video in the DevOps Shop series. The code related to that video is found at [intro-ansible-automation](https://github.com/xanderstevenson/intro-ansible-automation)
