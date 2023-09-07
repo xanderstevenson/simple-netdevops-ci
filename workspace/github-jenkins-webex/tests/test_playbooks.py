@@ -8,6 +8,7 @@ logger = logging.getLogger(__name__)
 
 def test_playbooks():
     # Define the root directory to start from
+    # You should replace with your own
     root_directory = "/Users/alexstev/.jenkins/workspace/github-jenkins-webex"
     
     # Get a list of all playbook files in the root directory
