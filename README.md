@@ -10,3 +10,7 @@ The code works with:
 <li>Webex 43.7.0.26612</li>
 </ul>
 <p align="center"><img src="https://github.com/xanderstevenson/simple-netdevops-ci/assets/27918923/c006358a-eba3-4a48-b1e0-8dc488223f2e" width="500" /></p>
+
+The logic is as follows:
+
+<p align="center"><img src="https://github.com/xanderstevenson/simple-netdevops-ci/assets/27918923/431a5e69-a103-42f8-a745-b75fbb7283d6" width="500" /></p>
