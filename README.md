@@ -34,7 +34,7 @@ ${JENKINS_HOME}/scripts/pytest.sh ${WORKSPACE}
 
 ## Usage
 
-As it stands, the pytests check for syntax errors in Ansible playbooks and inventory host files, but new tests could be added for many other things. Quite simply, anytime you update the GitHub repo, it will send a webhook to Jenkins, where it will run the shell script build trigger that clones the GitHub repo and creates a virtual environment to run pytests. If the pytests fail, a Webex message is sent detaailing what failed and the Jenkins build fails as well. It would be a good idea to also add a Post Build Action in the Jenkins Project to send an email when a build is successful or fails.
+As it stands, the pytests check for syntax errors in Ansible playbooks and inventory host files, but new tests could be added for many other things. Quite simply, anytime you update the GitHub repo, it will send a webhook to Jenkins, where it will run the shell script build trigger that clones the GitHub repo and creates a virtual environment to run pytests. If a pytests fails, a Webex message is sent to a space, detailing what failed and the Jenkins build will fail as well. It would be a good idea to also add a Post Build Action in the Jenkins Project to send an email when a build is successful or fails.
 
 
 
