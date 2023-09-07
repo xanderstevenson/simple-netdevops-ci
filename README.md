@@ -1,6 +1,6 @@
 # simple-netdevops-ci
 
-This code is meant to accompany the DevOps Shop video titled 'Simple NetDevOps CI with GitHub, Jenkins, pytest, and Webex'.
+## This code is meant to accompany the DevOps Shop video titled 'Simple NetDevOps CI with GitHub, Jenkins, pytest, and Webex'.
 
 The code works with:
 
