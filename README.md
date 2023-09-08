@@ -27,12 +27,13 @@ This project build upon the [Intro to Ansible for Automation](https://youtu.be/2
 2. Install the GitHub plugin in Jenkins main settings
 3. Configure a Freestyle Project in Jenkins
 4. In the Jenkins project settings, set Git at the Source Code Management and add your source repo.  For Build Trigger, select "GitHub hook trigger". In the Build Steps, choose "Execute Shell" and add this code:
-<br>   
+<br>
+````
 ```
 #!/bin/bash
-<br>
 ${JENKINS_HOME}/scripts/pytest.sh ${WORKSPACE}
 ```
+````
 <br>
 <br>
 6. Copy the files in this repo into your Jenkins home directory, where your workspace is located, adjusting file paths and such.
