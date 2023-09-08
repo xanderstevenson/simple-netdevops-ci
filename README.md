@@ -32,6 +32,7 @@ This project build upon the [Intro to Ansible for Automation](https://youtu.be/2
 <br>
 ${JENKINS_HOME}/scripts/pytest.sh ${WORKSPACE}
 <br>
+<br>
 6. Copy the files in this repo into your Jenkins home directory, where your workspace is located, adjusting file paths and such.
 7. If you want to include the Webex alerting, you should include the Webex token and Room ID. Those can be found by following the instructions [here](https://blogs.cisco.com/developer/automatewebexspace01).
 8. I have provided a [requirements.txt](https://github.com/xanderstevenson/simple-netdevops-ci/blob/main/requirements.txt) I have created from a pip freeze in my local directory. This could be useful for local testing but should not be necessary for a Jenkins build, which will create a virtual environment and install dependencies in it, based on the pytest.sh and the setup.py files.
