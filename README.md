@@ -4,6 +4,8 @@
 
 This is a simple and free CI pipeline that receives a webhook from GitHub whenever anything changes in the GitHub repo. The webhook triggers a build action in Jenkins that runs a shell that clones the GitHub repo and creates a virtual environment to run pytests. Currently, the repo I am cloning from is based on Ansible, so my tests are for Ansible playbooks and inventory files, but those can be adapted to test whatever you want. If a pytest fails, a message with details is sent to a Webex space and the build fails as well.
 
+[![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/github/repo/xanderstevenson/simple-netdevops-ci)
+
 The code works with:
 <ul>
 <li>Jenkins 2.401.3 </li>
