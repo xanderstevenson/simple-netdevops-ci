@@ -2,7 +2,7 @@
 
 ## This code is meant to accompany the DevOps Shop video titled 'Simple NetDevOps CI with GitHub, Jenkins, pytest, and Webex'.
 
-This is a simple and free CI pipeline that receives a webhook from GitHub whenever anything changes in the GitHub repo. The webhook triggers a build action in Jenkins that runs a shell that clones the GitHub repo and creates a virtual environment to run pytests. Currently, the repo I am cloning from is based on Ansible, so my tests are for Ansible playbooks and inventory files, but those can be adapted to test whatever you want. If a pytests fail, a messag with details is sent to a Webex space and the uild fails as well.
+This is a simple and free CI pipeline that receives a webhook from GitHub whenever anything changes in the GitHub repo. The webhook triggers a build action in Jenkins that runs a shell that clones the GitHub repo and creates a virtual environment to run pytests. Currently, the repo I am cloning from is based on Ansible, so my tests are for Ansible playbooks and inventory files, but those can be adapted to test whatever you want. If a pytest fails, a message with details is sent to a Webex space and the build fails as well.
 
 The code works with:
 <ul>
