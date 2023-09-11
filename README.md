@@ -21,8 +21,10 @@ The logic is as follows:
 
 The Webex message posted to your Webex space will look similar to this (results truncated):
 
-<p align="center"><img src="https://github.com/xanderstevenson/simple-netdevops-ci/assets/27918923/431a5e69-a103-42f8-a745-b75fbb7283d6" width="500" /></p>
+<p align="center"><img src="https://github.com/xanderstevenson/simple-netdevops-ci/assets/27918923/4c320aec-96fa-4715-9e2b-017e39498301" width="500" /></p>
 
+
+![image](https://github.com/xanderstevenson/simple-netdevops-ci/assets/27918923/4c320aec-96fa-4715-9e2b-017e39498301)
 
 Jenkins will require the GitHub plugin, at a minimum.
 
