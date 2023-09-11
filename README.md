@@ -17,7 +17,10 @@ The code works with:
 
 The logic is as follows:
 
-<p align="center"><img src="https://github.com/xanderstevenson/simple-netdevops-ci/assets/27918923/431a5e69-a103-42f8-a745-b75fbb7283d6" width="500" /></p>
+![image](https://github.com/xanderstevenson/simple-netdevops-ci/assets/27918923/b0ddad72-9292-4cf6-b818-ada7110076a1)
+
+
+<p align="center"><img src="https://github.com/xanderstevenson/simple-netdevops-ci/assets/27918923/b0ddad72-9292-4cf6-b818-ada7110076a1" width="500" /></p>
 
 The Webex message posted to your Webex space will look similar to this (results truncated):
 
