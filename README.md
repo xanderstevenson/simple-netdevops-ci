@@ -24,8 +24,6 @@ The Webex message posted to your Webex space will look similar to this (results 
 <p align="center"><img src="https://github.com/xanderstevenson/simple-netdevops-ci/assets/27918923/4c320aec-96fa-4715-9e2b-017e39498301" width="500" /></p>
 
 
-![image](https://github.com/xanderstevenson/simple-netdevops-ci/assets/27918923/4c320aec-96fa-4715-9e2b-017e39498301)
-
 Jenkins will require the GitHub plugin, at a minimum.
 
 This project build upon the [Intro to Ansible for Automation](https://youtu.be/2rDAziMChXs) video in the DevOps Shop series. The code related to that video is found at [intro-ansible-automation](https://github.com/xanderstevenson/intro-ansible-automation)
