@@ -19,6 +19,11 @@ The logic is as follows:
 
 <p align="center"><img src="https://github.com/xanderstevenson/simple-netdevops-ci/assets/27918923/431a5e69-a103-42f8-a745-b75fbb7283d6" width="500" /></p>
 
+The Webex message posted to your Webex space will look similar to this (results truncated):
+
+<p align="center"><img src="[https://github.com/xanderstevenson/simple-netdevops-ci/assets/27918923/431a5e69-a103-42f8-a745-b75fbb7283d6" width="500" /></p>
+
+
 Jenkins will require the GitHub plugin, at a minimum.
 
 This project build upon the [Intro to Ansible for Automation](https://youtu.be/2rDAziMChXs) video in the DevOps Shop series. The code related to that video is found at [intro-ansible-automation](https://github.com/xanderstevenson/intro-ansible-automation)
