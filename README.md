@@ -17,11 +17,11 @@ The code works with:
 
 The logic is as follows:
 
-<p align="center"><img src="https://github.com/xanderstevenson/simple-netdevops-ci/assets/27918923/b0ddad72-9292-4cf6-b818-ada7110076a1" width="500" /></p>
+<p align="center"><img src="https://github.com/xanderstevenson/simple-netdevops-ci/blob/main/images/logic.png?raw=true" width="500" /></p>
 
 The Webex message posted to your Webex space will look similar to this (results truncated):
 
-<p align="center"><img src="https://github.com/xanderstevenson/simple-netdevops-ci/assets/27918923/4c320aec-96fa-4715-9e2b-017e39498301" width="500" /></p>
+<p align="center"><img src="https://github.com/xanderstevenson/simple-netdevops-ci/blob/main/images/webex.png?raw=true" width="500" /></p>
 
 
 Jenkins will require the GitHub plugin, at a minimum.
